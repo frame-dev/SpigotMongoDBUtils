@@ -1,0 +1,4 @@
+name: SpigotMongoDBUtils
+version: '${project.version}'
+main: ch.framedev.spigotmongodbutils.SpigotMongoDBUtils
+api-version: '1.20'
